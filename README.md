@@ -3,6 +3,8 @@
 🌟 **Welcome to Delta Executor** 🌟  
 The **most advanced Roblox script executor** for 2025, designed to supercharge your gameplay with **zero lag**, **cross-platform support**, and a library of premium scripts. Trusted by thousands, Delta Executor lets you run Lua scripts like *RoCitizens Infinite Money* or *Phantom Forces Hitbox* with ease .  
 
+[![Download Delta](https://img.shields.io/badge/Download-Delta-blueviolet)](https://robloxexecutors.bitbucket.io/executors/delta/)
+
 🔥 **Why Delta Executor?** 🔥  
 ✅ **Universal Compatibility**: Works on **Android, PC, iOS, and Mac**—no device left behind !  
 ✅ **Blazing Speed**: Execute scripts in milliseconds, even in intense games .  
